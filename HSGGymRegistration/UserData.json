@@ -1,0 +1,14 @@
+{
+  "Type": "CustomForm",
+  "Name": "CustomForm",
+  "Text": "CustomForm",
+  "Width": 892,
+  "Size": "892, 969",
+  "Location": "0, 0",
+  "Font": "Microsoft Sans Serif, 7.875pt",
+  "BackColor": "Control",
+  "Controls": [],
+  "ShowInTaskbar": true,
+  "CanResize": true,
+  "OnLoadWorkflowPath": null
+}

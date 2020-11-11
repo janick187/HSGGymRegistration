@@ -1,8 +1,9 @@
 {
   "name": "HSGGymRegistration",
   "description": "Process for automating the gym registration process",
-  "main": "GymRegistration.xaml",
+  "main": "GetSlots.xaml",
   "dependencies": {
+    "Symphony.Activities.Extension.SyForms": "[1.1.0]",
     "UiPath.Excel.Activities": "[2.9.3]",
     "UiPath.Mail.Activities": "[1.9.3]",
     "UiPath.System.Activities": "[20.10.1]",
@@ -12,7 +13,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "20.10.2.0",
-  "projectVersion": "1.0.0",
+  "projectVersion": "1.0.1",
   "runtimeOptions": {
     "autoDispose": false,
     "isPausable": true,
@@ -48,8 +49,8 @@
       "output": []
     },
     {
-      "filePath": "GymRegistration.xaml",
-      "uniqueId": "b486d0eb-35db-430a-8589-36977afca52b",
+      "filePath": "GetSlots.xaml",
+      "uniqueId": "a466fb29-043d-4733-9b84-385ccc8b67cc",
       "input": [],
       "output": []
     }
